@@ -9,7 +9,9 @@ Neste repositório estão presentes o site do meu portfólio desenvolvido para a
 - Site pessoal
 - Projetos acadêmicos
 
-## Estrutura das pastas
+## Estrutura do Repositório
+
+```txt
 portfolio-academico/
 │
 ├── README.md
@@ -29,6 +31,7 @@ portfolio-academico/
 │
 └── projetos/
     └── projeto1/
+```
   
 ## Tecnologias Utilizadas
 - HTML
