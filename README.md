@@ -9,9 +9,11 @@ Neste repositório estão presentes o site do meu portfólio desenvolvido para a
 - Site pessoal
 - Projetos acadêmicos
 
-## Site
+## Meu portfólio
 
-[Site Portfólio](https://sites.google.com/view/portfolioenzomachadoschumacher/in%C3%ADcio)
+- Currículo: curriculo.pdf
+- Slides: slides.pdf
+- Site: https://sites.google.com/view/portfolioenzomachadoschumacher/in%C3%ADcio
 
 ## Estrutura do Repositório
 
