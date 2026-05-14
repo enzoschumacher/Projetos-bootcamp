@@ -11,7 +11,7 @@ Neste repositório estão presentes o site do meu portfólio desenvolvido para a
 
 ## Site
 
-[Meu site](https://sites.google.com/view/portfolioenzomachadoschumacher/in%C3%ADcio)
+[Site Portfólio](https://sites.google.com/view/portfolioenzomachadoschumacher/in%C3%ADcio)
 
 ## Estrutura do Repositório
 
