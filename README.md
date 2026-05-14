@@ -42,4 +42,8 @@ portfolio-academico/
 
 ## Autor
 Enzo Machado Schumacher
-LinkedIn:https://www.linkedin.com/in/enzo-schumacher/
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/enzo-schumacher/)
+- [GitHub](https://github.com/enzoschumacher)
