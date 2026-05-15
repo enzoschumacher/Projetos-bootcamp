@@ -45,10 +45,10 @@ Projetos-bootcamp/
 - [Lista Banco de Dados](projetos/Lista%201%20Banco%20de%20Dados%20I%20Feita.pdf) - Modelagem de Dados e MER
 
 ## Exercícios com Python
-- [EX 1](projetos/ex_01_4_for_tu_cdml_22604067_enzo.py)   - [EX 5](projetos/ex_05_4_for_tu_cdml_22604067_enzo.py)
-- [EX 2](projetos/ex_02_4_for_tu_cdml_22604067_enzo.py)   - [EX 6](projetos/ex_06_4_for_tu_cdml_22604067_enzo.py)
-- [EX 3](projetos/ex_03_4_for_tu_cdml_22604067_enzo.py)   - [EX 7](projetos/ex_07_4_for_tu_cdml_22604067_enzo.py)
-- [EX 4](projetos/ex_04_4_for_tu_cdml_22604067_enzo.py)   - [EX 8](projetos/ex_08_4_for_tu_cdml_22604067_enzo.py)
+- [EX 1](projetos/ex_01_4_for_tu_cdml_22604067_enzo.py)   • [EX 5](projetos/ex_05_4_for_tu_cdml_22604067_enzo.py)
+- [EX 2](projetos/ex_02_4_for_tu_cdml_22604067_enzo.py)   • [EX 6](projetos/ex_06_4_for_tu_cdml_22604067_enzo.py)
+- [EX 3](projetos/ex_03_4_for_tu_cdml_22604067_enzo.py)   • [EX 7](projetos/ex_07_4_for_tu_cdml_22604067_enzo.py)
+- [EX 4](projetos/ex_04_4_for_tu_cdml_22604067_enzo.py)   • [EX 8](projetos/ex_08_4_for_tu_cdml_22604067_enzo.py)
 
 
 ## Tecnologias Utilizadas
