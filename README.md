@@ -40,7 +40,7 @@ portfolio-academico/
 ```
   
 ## Projetos Acadêmicos
-[exercício de pandas](.\Users\Enzo\Downloads\Exercicio_pandas_2.ipynb)
+[exercício de pandas 2](projetos/Exercicio_pandas_2.ipynb)
 
 ## Tecnologias Utilizadas
 - HTML
