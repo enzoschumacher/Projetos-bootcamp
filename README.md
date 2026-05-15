@@ -44,6 +44,13 @@ Projetos-bootcamp/
 - [EXERCÍCIO MER](projetos/mer_04_supermercado.xml) - MER-Lógico de Supermercado
 - [Lista Banco de Dados](projetos/Lista%201%20Banco%20de%20Dados%20I%20Feita.pdf) - Modelagem de Dados e MER
 
+## Exercícios com Python
+-
+-
+-
+-
+
+
 ## Tecnologias Utilizadas
 - HTML
 - CSS
