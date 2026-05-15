@@ -39,12 +39,15 @@ Projetos-bootcamp/
 ```
   
 ## Projetos Acadêmicos
+### Exercícios com Pandas 
 - [EXERCÍCIO Pandas 1](projetos/pandas_intro_ex1.ipynb) - Comandos básicos de pandas para EDA
 - [EXERCÍCIO Pandas 2](projetos/Exercicio_pandas_2.ipynb) - Limpeza, Transformação e Agrupamento de Dados
+
+### Exercícios de Banco de Dados
 - [EXERCÍCIO MER](projetos/mer_04_supermercado.xml) - MER-Lógico de Supermercado
 - [Lista Banco de Dados](projetos/Lista%201%20Banco%20de%20Dados%20I%20Feita.pdf) - Modelagem de Dados e MER
 
-## Exercícios com Python
+### Exercícios com Python
 - [EX 1](projetos/ex_01_4_for_tu_cdml_22604067_enzo.py) - Computar a média de N números reais 
 - [EX 2](projetos/ex_02_4_for_tu_cdml_22604067_enzo.py) - Imprimir todos os números entre 30 e 5
 - [EX 3](projetos/ex_03_4_for_tu_cdml_22604067_enzo.py) - Imprimir na tela os 50 primeiros valores positivos e negativos exibindo unidades de conversão
