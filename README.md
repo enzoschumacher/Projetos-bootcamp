@@ -19,23 +19,13 @@ Neste repositório estão presentes o site do meu portfólio desenvolvido para a
 
 ```txt
 Projetos-bootcamp/
-├── README.md
-├── index.html
-├── style.css
-│
-├── docs/
-│   └── curriculo.pdf
-│
-├── slides/
-│   └── apresentacao.pdf
-│
-├── site/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── projetos/
-    └── projeto1/
+├── projetos-academicos/    # Projetos desenvolvidos durante o meu curso
+│   ├── Exercícios com Pandas/         # Comandos de Pandas
+│   ├── Exercícios de Banco de Dados/  # MER Lógico e Listas
+│   └── Exercícios com Python/         # Lista de Exercícios Python 
+├── README.md                 # Este arquivo
+└── curriculo.pdf             # Meu curriculo
+└── portfolio.pdf             # Página inicial do portfólio                 
 ```
   
 ## Projetos Acadêmicos
