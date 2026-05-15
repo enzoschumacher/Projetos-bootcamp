@@ -41,7 +41,7 @@ portfolio-academico/
   
 ## Projetos Acadêmicos
 - [EXERCÍCIO Pandas 1](projetos/pandas_intro_ex1.ipynb) - Comandos básicos de pandas para EDA
-- [EXERCÍCIO Pandas 2](projetos/Exercicio_pandas_2.ipynb) 
+- [EXERCÍCIO Pandas 2](projetos/Exercicio_pandas_2.ipynb) - Limpeza, Transformação e Agrupamento de Dados
 - [EXERCÍCIO MER](projetos/mer_04_supermercado.xml)
 - [Lista Banco de Dados](projetos/Lista%201%20Banco%20de%20Dados%20I%20Feita.pdf)
 
