@@ -45,11 +45,14 @@ Projetos-bootcamp/
 - [Lista Banco de Dados](projetos/Lista%201%20Banco%20de%20Dados%20I%20Feita.pdf) - Modelagem de Dados e MER
 
 ## Exercícios com Python
-- [EX 1](projetos/ex_01_4_for_tu_cdml_22604067_enzo.py)   • [EX 5](projetos/ex_05_4_for_tu_cdml_22604067_enzo.py)
-- [EX 2](projetos/ex_02_4_for_tu_cdml_22604067_enzo.py)   • [EX 6](projetos/ex_06_4_for_tu_cdml_22604067_enzo.py)
-- [EX 3](projetos/ex_03_4_for_tu_cdml_22604067_enzo.py)   • [EX 7](projetos/ex_07_4_for_tu_cdml_22604067_enzo.py)
-- [EX 4](projetos/ex_04_4_for_tu_cdml_22604067_enzo.py)   • [EX 8](projetos/ex_08_4_for_tu_cdml_22604067_enzo.py)
-
+- [EX 1](projetos/ex_01_4_for_tu_cdml_22604067_enzo.py) - Computar a média de N números reais 
+- [EX 2](projetos/ex_02_4_for_tu_cdml_22604067_enzo.py) - Imprimir todos os números entre 30 e 5
+- [EX 3](projetos/ex_03_4_for_tu_cdml_22604067_enzo.py) - Imprimir na tela os 50 primeiros valores positivos e negativos exibindo unidades de conversão
+- [EX 4](projetos/ex_04_4_for_tu_cdml_22604067_enzo.py) - Exibir os resultados da conversão, parando a cada 25 valores 
+- [EX 5](projetos/ex_05_4_for_tu_cdml_22604067_enzo.py) - Conversão de metros para pés, de 0 a 100 metros
+- [EX 6](projetos/ex_06_4_for_tu_cdml_22604067_enzo.py) - Somar os algarismos de um inteiro e ao final exiba o número digitado e o somatório de seus algarismos
+- [EX 7](projetos/ex_07_4_for_tu_cdml_22604067_enzo.py) - Gerar a sequência dos números inteiros
+- [EX 8](projetos/ex_08_4_for_tu_cdml_22604067_enzo.py) - Calcular o valor de H.Sendo H = 1 + 1/2 + 1/3 + 1/4 + . . . + 1/n. 
 
 ## Tecnologias Utilizadas
 - HTML
