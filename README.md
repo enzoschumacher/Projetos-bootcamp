@@ -18,8 +18,7 @@ Neste repositório estão presentes o site do meu portfólio desenvolvido para a
 ## Estrutura do Repositório
 
 ```txt
-portfolio-academico/
-│
+Projetos-bootcamp/
 ├── README.md
 ├── index.html
 ├── style.css
