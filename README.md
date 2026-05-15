@@ -50,7 +50,9 @@ Projetos-bootcamp/
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript
+- Python
+- Jupyter Notebook
+- DBDesigner 4
 - Git
 - GitHub
 
