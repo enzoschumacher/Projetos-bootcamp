@@ -12,7 +12,7 @@ Neste repositório estão presentes o site do meu portfólio desenvolvido para a
 ## Meu portfólio
 
 - Currículo: [curriculo.pdf](curriculo.pdf)
-- Slides: slides.pdf
+- Slides: [portfolio.pdf](portfolio.pdf)
 - Site: https://sites.google.com/view/portfolioenzomachadoschumacher/in%C3%ADcio
 
 ## Estrutura do Repositório
