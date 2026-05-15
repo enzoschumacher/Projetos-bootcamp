@@ -39,6 +39,9 @@ portfolio-academico/
     └── projeto1/
 ```
   
+## Projetos Acadêmicos
+
+
 ## Tecnologias Utilizadas
 - HTML
 - CSS
