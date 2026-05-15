@@ -52,7 +52,7 @@ Projetos-bootcamp/
 - [EX 5](projetos/ex_05_4_for_tu_cdml_22604067_enzo.py) - Conversão de metros para pés, de 0 a 100 metros
 - [EX 6](projetos/ex_06_4_for_tu_cdml_22604067_enzo.py) - Somar os algarismos de um inteiro e ao final exiba o número digitado e o somatório de seus algarismos
 - [EX 7](projetos/ex_07_4_for_tu_cdml_22604067_enzo.py) - Gerar a sequência dos números inteiros
-- [EX 8](projetos/ex_08_4_for_tu_cdml_22604067_enzo.py) - Calcular o valor de H.Sendo H = 1 + 1/2 + 1/3 + 1/4 + . . . + 1/n. 
+- [EX 8](projetos/ex_08_4_for_tu_cdml_22604067_enzo.py) - Calcular o valor de H. Sendo H = 1 + 1/2 + 1/3 + 1/4 + . . . + 1/n. 
 
 ## Tecnologias Utilizadas
 - HTML
