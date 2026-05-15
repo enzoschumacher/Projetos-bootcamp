@@ -41,6 +41,7 @@ portfolio-academico/
   
 ## Projetos Acadêmicos
 [EXERCÍCIO pandas 2](projetos/Exercicio_pandas_2.ipynb)
+[EXERCÍCIO pandas 1](projetos/pandas_intro_ex1.ipynb).
 
 ## Tecnologias Utilizadas
 - HTML
