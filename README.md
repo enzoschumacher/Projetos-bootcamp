@@ -1,5 +1,5 @@
 # Projetos-bootcamp
-Repositório onde eu armazeno meus projetos da faculdade.
+Repositório onde eu armazeno atividades do Bootcamp e projetos da faculdade.
 ## Sobre
 Neste repositório estão presentes o site do meu portfólio desenvolvido para a apresentação pessoal e profissional, criada individualmente utilizando o Google Sites durante o Bootcamp I, além de projetos acadêmicos e pessoais.
 
@@ -8,6 +8,7 @@ Neste repositório estão presentes o site do meu portfólio desenvolvido para a
 - Slides de apresentação
 - Site pessoal
 - Projetos acadêmicos
+- Contatos
 
 ## Meu portfólio
 
